@@ -3,7 +3,7 @@
 A complete manual testing project for [Swag Labs](https://www.saucedemo.com), the public demo e-commerce app that Sauce Labs provides for testing practice. It contains a test plan, a 45-case test suite, 14 findings tracked in Jira with a traceability matrix back to the test cases, and screenshot evidence.
 
 > Personal practice project against a public demo application. Some behaviour may be an intentional teaching artifact rather than an unintended defect, so each finding was judged on its own merits.
-
+| | | |
 |---|---|
 | Test cases | **45** across 5 modules (written and managed in TestRail) |
 | Findings logged in Jira | **14**: 13 bugs and 1 UX suggestion |
