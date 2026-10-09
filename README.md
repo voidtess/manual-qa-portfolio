@@ -4,9 +4,6 @@ A complete manual testing project for [Swag Labs](https://www.saucedemo.com), th
 
 > Personal practice project against a public demo application. Some behaviour may be an intentional teaching artifact rather than an unintended defect, so each finding was judged on its own merits.
 
-## At a glance
-
-| | |
 |---|---|
 | Test cases | **45** across 5 modules (written and managed in TestRail) |
 | Findings logged in Jira | **14**: 13 bugs and 1 UX suggestion |
