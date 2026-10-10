@@ -4,8 +4,17 @@ A complete manual testing project for [Swag Labs](https://www.saucedemo.com), th
 
 > Personal practice project against a public demo application. Some behaviour may be an intentional teaching artifact rather than an unintended defect, so each finding was judged on its own merits.
 
-# Let's start!
+# A quick tour
 
+| If you want to see | Open | What is inside |
+|---|---|---|
+| How the testing was planned | [docs/Master_Test_Plan.docx](docs/Master_Test_Plan.docx) | scope, approach, environment, results summary |
+| The test cases | [test-suite/Test_Cases.xlsx](test-suite/Test_Cases.xlsx) | 45 cases, one tab per module, each with precondition, steps and expected result |
+| The bugs I found | [defects/Bug_Report.xlsx](defects/Bug_Report.xlsx) | 14 findings with steps, expected vs actual result, severity, priority and evidence |
+| How everything connects | [traceability/RTM.xlsx](traceability/RTM.xlsx) | requirement → test case → defect |
+| Proof | [evidence/](evidence/) | screenshots referenced from the bug report |
+
+## Quick summary
 | | |
 |---|---|
 | Test cases | **45** across 5 modules (written and managed in TestRail) |
